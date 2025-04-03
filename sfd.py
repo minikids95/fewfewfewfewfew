@@ -1,5 +1,4 @@
 from flask import Flask, request, jsonify
-import requests
 
 app = Flask(__name__)
 @app.route('/sdfgiygwfidkjsidaifhsdfihwe7yfkahsdjfkhsdfweuihfhsjaflsjdkfiwejfiwejf8738479823746237426345752', methods=['POST'])
